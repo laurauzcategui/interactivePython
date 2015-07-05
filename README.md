@@ -10,4 +10,3 @@
  * Go to: [Code Skulptor](http://www.codeskulptor.org/)
  * Select the mini-project and copy the code into Code Skulptor Editor
  * Enjoy & Play around with it
- 
